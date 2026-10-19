@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vajra Stone & Pebble Management ERP
 ### Enterprise Resource Planning for Quarry Operations, Pebble Trading & Lorry Logistics
 
@@ -115,3 +116,6 @@ node --test src/tests/calculations.test.mjs
    NEXT_PUBLIC_SUPABASE_ANON_KEY=your-anon-key-here
    ```
 4. If credentials are not supplied, the application automatically runs in **Offline-First Demo Mode** with persistent browser storage and preloaded realistic Indian stone trading records. You can safely reset or clear demo data from the `/settings` page.
+=======
+# quary---erp
+>>>>>>> origin/main
